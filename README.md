@@ -3,6 +3,7 @@
 An interactive data simulation app built with Python and Streamlit that models restaurant revenue using Monte Carlo methods and probability-based customer behaviour.
 
 **LIVE DEMO: *
+https://restaurant-revenue-simulator-dvrpqxazvqt2vb3bvkx2vv.streamlit.app/
 
 ---
 
